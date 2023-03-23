@@ -23,7 +23,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "New Philippines was a territory of Spain which covers what US State?",
+    question: "New Philippines was a territory of Spain which covers what U.S. State?",
     answer: "Texas",
     options: [
       "Arizona",
