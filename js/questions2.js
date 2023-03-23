@@ -56,7 +56,7 @@ let questions = [
   },
   {
     numb: 6,
-    question: "Morroco is the only country in Africa to border a different country in a different continent besides Africa",
+    question: "Morocco is the only country in Africa to border a different country in a different continent besides Africa",
     answer: "False",
     options: [
       "True",
